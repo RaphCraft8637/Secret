@@ -1,0 +1,8 @@
+Sets the rate at which the enemy will drain your health upon hitting a note.
+
+Value 1: Additive (Meaning it will always drain
+this amount of health from you on note hit)
+
+Value 2: Multiplicative (Meaning it will drain
+this amount times your current health. Ex: At full
+HP, it will be multiplied by 2.)
