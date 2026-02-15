@@ -1,9 +1,0 @@
-v1: 1 character
-
-v2: 2 character (if you want lol)
-
-leave blank to remove it
-
-options: dad, gf, boyfriend
-
-	

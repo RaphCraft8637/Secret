@@ -1,2 +1,0 @@
-v1: [object],[tween type]
-v2: [value],[time],[ease]

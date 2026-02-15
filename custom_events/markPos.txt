@@ -1,2 +1,0 @@
-v1: up or down
-v2: left or right

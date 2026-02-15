@@ -1,4 +1,0 @@
-makes everything black and white
-
-v1:duration
-v2:true or false

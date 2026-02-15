@@ -1,2 +1,0 @@
-v1: fnaf[num]
-v2: cam[num]
